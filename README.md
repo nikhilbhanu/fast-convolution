@@ -1,2 +1,2 @@
 # fast-convolution
-non-uniform partitioned convolution
+Uniform and non-uniform partitioned convolution
